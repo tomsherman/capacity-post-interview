@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31702.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CapacityPostInterview", "CapacityPostInterview.csproj", "{3C38DB8C-D396-47D1-BF70-3EF28E05D84D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C38DB8C-D396-47D1-BF70-3EF28E05D84D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C38DB8C-D396-47D1-BF70-3EF28E05D84D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C38DB8C-D396-47D1-BF70-3EF28E05D84D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C38DB8C-D396-47D1-BF70-3EF28E05D84D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2E019E5-C5F8-4943-ADF8-714A45B0F79D}
+	EndGlobalSection
+EndGlobal
